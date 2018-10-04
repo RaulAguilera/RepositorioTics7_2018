@@ -1,0 +1,9 @@
+C:\Users\Raul\Desktop\RepositorioTics7_2018\EjemploClase\bin\Debug\netcoreapp1.1\EjemploClase.deps.json
+C:\Users\Raul\Desktop\RepositorioTics7_2018\EjemploClase\bin\Debug\netcoreapp1.1\EjemploClase.runtimeconfig.json
+C:\Users\Raul\Desktop\RepositorioTics7_2018\EjemploClase\bin\Debug\netcoreapp1.1\EjemploClase.runtimeconfig.dev.json
+C:\Users\Raul\Desktop\RepositorioTics7_2018\EjemploClase\bin\Debug\netcoreapp1.1\EjemploClase.dll
+C:\Users\Raul\Desktop\RepositorioTics7_2018\EjemploClase\bin\Debug\netcoreapp1.1\EjemploClase.pdb
+C:\Users\Raul\Desktop\RepositorioTics7_2018\EjemploClase\obj\Debug\netcoreapp1.1\EjemploClase.csprojResolveAssemblyReference.cache
+C:\Users\Raul\Desktop\RepositorioTics7_2018\EjemploClase\obj\Debug\netcoreapp1.1\EjemploClase.AssemblyInfo.cs
+C:\Users\Raul\Desktop\RepositorioTics7_2018\EjemploClase\obj\Debug\netcoreapp1.1\EjemploClase.dll
+C:\Users\Raul\Desktop\RepositorioTics7_2018\EjemploClase\obj\Debug\netcoreapp1.1\EjemploClase.pdb
