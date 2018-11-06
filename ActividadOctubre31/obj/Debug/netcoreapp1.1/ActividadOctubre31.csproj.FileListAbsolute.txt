@@ -1,0 +1,9 @@
+C:\Users\Raul\Desktop\RepositorioTics7_2018\ActividadOctubre31\bin\Debug\netcoreapp1.1\ActividadOctubre31.deps.json
+C:\Users\Raul\Desktop\RepositorioTics7_2018\ActividadOctubre31\bin\Debug\netcoreapp1.1\ActividadOctubre31.runtimeconfig.json
+C:\Users\Raul\Desktop\RepositorioTics7_2018\ActividadOctubre31\bin\Debug\netcoreapp1.1\ActividadOctubre31.runtimeconfig.dev.json
+C:\Users\Raul\Desktop\RepositorioTics7_2018\ActividadOctubre31\bin\Debug\netcoreapp1.1\ActividadOctubre31.dll
+C:\Users\Raul\Desktop\RepositorioTics7_2018\ActividadOctubre31\bin\Debug\netcoreapp1.1\ActividadOctubre31.pdb
+C:\Users\Raul\Desktop\RepositorioTics7_2018\ActividadOctubre31\obj\Debug\netcoreapp1.1\ActividadOctubre31.csprojResolveAssemblyReference.cache
+C:\Users\Raul\Desktop\RepositorioTics7_2018\ActividadOctubre31\obj\Debug\netcoreapp1.1\ActividadOctubre31.AssemblyInfo.cs
+C:\Users\Raul\Desktop\RepositorioTics7_2018\ActividadOctubre31\obj\Debug\netcoreapp1.1\ActividadOctubre31.dll
+C:\Users\Raul\Desktop\RepositorioTics7_2018\ActividadOctubre31\obj\Debug\netcoreapp1.1\ActividadOctubre31.pdb
