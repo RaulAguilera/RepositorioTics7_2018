@@ -6,6 +6,10 @@ namespace ActividadOctubre31
     {
         static void Main(string[] args)
         {
+            //Sobreescritura de metodos:
+            //Cambiar el comportamiento de un metodo virtual de la clase base utilizando la palabra override
+            //en una clase derivada.
+
             Figura f1 = new Cuadrado();
             f1.Base = 5;
             f1.Altura = 5;
