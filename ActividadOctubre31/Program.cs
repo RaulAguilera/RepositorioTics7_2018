@@ -28,6 +28,12 @@ namespace ActividadOctubre31
 
             Console.WriteLine("Area f3: "+ f3.CalcularArea());
 
+            Circulo f4 = new Circulo();
+            f4.Radio = 3.0;
+
+            Console.WriteLine("Area Circulo: "+ f4.CalcularArea());
+
+
             Console.ReadKey();
         }
     }
