@@ -15,6 +15,23 @@
 
         }
 
+        public int CalcularMaximo(int[] arreglo)
+        {
+
+            int maximo = 0;
+
+            for (int i = 0; i < arreglo.Length; i++)
+            {
+                if (arreglo[i] > maximo)
+                {
+                    maximo = arreglo[i];
+                }
+
+            }
+
+            return maximo;
+        }
+
     }
 
 }
